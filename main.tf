@@ -1,4 +1,5 @@
 # Specify the AWS provider
+# main file to write all the commands
 provider "aws" {
   region = "us-east-1" # Specify your preferred region
 }
